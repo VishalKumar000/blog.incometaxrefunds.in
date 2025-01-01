@@ -7,20 +7,22 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Income Tax Refund Portal',
+    description: `ITR login, income tax login, ITR refund login, income tax return login, ITR portal access, refund tracking, and seamless tax management.`,
+    imgSrc: '/static/images/project-portal-itr-thumbnail.png',
+    href: 'https://www.portal.incometaxrefunds.in/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Income Tax Refund Starter',
+    description: `File Income Tax Refund (ITR-1, ITR-2), ITR Registration, Govt. Notice Resolution, Aadhar & PAN Link, & 24/7 online support.`,
+    imgSrc: '/static/images/project-incometaxrefunds-starter-thumbnail.png',
+    href: 'https://www.incometaxrefunds.in/',
+  },
+  {
+    title: 'Portfolio',
+    description: `Hello, I'm Vishal. I'm a freelance full-stack specialist with 1 years of experience. I enjoy building sites & apps. My focus is React (Next.js).`,
+    imgSrc: '/static/images/project-vishal-portfolio-thumbnail.png',
+    href: 'https://vishal-portfolio-dev.vercel.app/',
   },
 ]
 
