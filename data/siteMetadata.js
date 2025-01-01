@@ -3,7 +3,8 @@ const siteMetadata = {
   title: 'IncomeTaxRefunds Blog',
   author: 'Vishal Kumar',
   headerTitle: 'IncomeTaxRefunds Blog',
-  description: 'A blog on detailed information of income tax refund details and chartered accountant. ',
+  description:
+    'A blog on detailed information of income tax refund details and chartered accountant. ',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.blog.incometaxrefunds.in',
